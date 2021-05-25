@@ -1,3 +1,10 @@
+
+# DEPRECIATED!
+
+This repository is depreciated and has now been archived. Check out the **newer [web-gdb](https://github.com/wokwi/web-gdb) repo**, which supports multiple architectures (gdb-multiarch).
+
+---
+
 # web-avr-gdb
 
 avr-gdb running in a web-browser!
